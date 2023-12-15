@@ -1,0 +1,102 @@
+    1  git config --list
+    2  git config --global init.main
+    3  git init
+    4  git branch
+    5  git config user.name
+    6  git config user.email
+    7  git config init
+    8  git help config
+    9  #git
+   10  git add -h
+   11  echo 'My Project' >README
+   12  git status
+   13  git add README
+   14  git status
+   15  git rm --cached README
+   16  git status
+   17  git add README
+   18  git status
+   19   git diff --staged
+   20  git commit
+   21  git status
+   22  git branch
+   23  git checkout master
+   24  git checkout
+   25  git branch
+   26  git init
+   27  git clone https://github.com/Umuzi-org/Mpho-Muluvhu-223-person-javascript.git
+   28  git add .
+   29  git status
+   30  "git rm --cached [200~Mpho-Muluvhu-223-person-javascript
+   31  git status
+   32  git status
+   33  git rm --cached Mpho-Muluvhu-223-person-javascript
+   34  git clone https://github.com/Umuzi-org/Mpho-Muluvhu-223-person-javascript.git
+   35  git clone https://github.com/Umuzi-org/Mpho-Muluvhu-223-person-javascript.git
+   36  git clone https://github.com/Umuzi-org/Mpho-Muluvhu-223-person-javascript.git
+   37  git add .
+   38  git add .
+   39  git status
+   40  git commit -m "updated task-person"
+   41  git push origin main
+   42  git push origin main
+   43  git push origin feature-branch
+   44  git checkout -b feature-branchZ
+   45  git add .
+   46  git status
+   47  git diff
+   48  git log
+   49  git commit -m "updated OOP-person"
+   50  git add .
+   51  git status
+   52  git commit -m "updated oop-person"
+   53  git push -u origin feature-branchZ
+   54  git checkout main
+   55  git pull origin main
+   56  ls
+   57  ls -a
+   58  git init
+   59  ls -a
+   60  git status
+   61  touch README.md
+   62  ls -a
+   63  git status
+   64  git log
+   65  git add .
+   66  git status
+   67  git rm --cached README.md
+   68  git status
+   69  git add README.md
+   70  git status
+   71  git commit -m "initial commit"
+   72  git log
+   73  nano README.md
+   74  cat README.md
+   75  git status
+   76  git add README.md
+   77  git commit -m "second commit"
+   78  nano README.md
+   79  git status
+   80  cat README.md
+   81  git add README.md
+   82  git commit -m "third commit"
+   83  git log
+   84  git checkout commit 97fcaa0fa74aa9b524d1c04c3d7a1027f839b0d6
+   85  git checkout 97fcaa0fa74aa9b524d1c04c3d7a1027f839b0d6
+   86  cat README.md
+   87  git checkout master
+   88  cat README.md
+   89  git branch
+   90  git branch milkshake-flavours
+   91  git branch
+   92  git checkout milkshake-flavours
+   93  git branch
+   94  nano milkshakes.md
+   95  cat milkshakes.md
+   96  git add milkshakes.md
+   97  git commit -m "added initial flavours"
+   98  git log
+   99  git checkout master
+  100  git checkout -b history
+  101  git log
+  102  history > history.txt
